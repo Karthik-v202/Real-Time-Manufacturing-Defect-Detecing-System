@@ -1,0 +1,14 @@
+# Path to the dataset root
+path: ./V1 
+
+# Relative paths to the image folders
+train: train/images
+val: val/images
+test: test/images
+
+# Class Configuration
+nc: 1
+names: ['Spatter-Defect']
+
+# Project Info
+description: "Real-Time Manufacturing Defect Detecting System - Phase 1"
